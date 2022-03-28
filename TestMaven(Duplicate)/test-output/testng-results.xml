@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7646" started-at="2022-03-28T11:11:09 IST" finished-at="2022-03-28T11:11:16 IST">
+  <suite name="Suite" duration-ms="6810" started-at="2022-03-29T00:54:14 IST" finished-at="2022-03-29T00:54:21 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="7646" started-at="2022-03-28T11:11:09 IST" finished-at="2022-03-28T11:11:16 IST">
+    <test name="Test" duration-ms="6810" started-at="2022-03-29T00:54:14 IST" finished-at="2022-03-29T00:54:21 IST">
       <class name="com.abc.orageHRM.Test.LoginPageTest">
-        <test-method status="PASS" signature="Browser_Initilisation()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="Browser_Initilisation" is-config="true" duration-ms="9829" started-at="2022-03-28T11:10:59 IST" finished-at="2022-03-28T11:11:09 IST">
+        <test-method status="PASS" signature="Browser_Initilisation()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="Browser_Initilisation" is-config="true" duration-ms="9821" started-at="2022-03-29T00:54:05 IST" finished-at="2022-03-29T00:54:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Browser_Initilisation -->
-        <test-method status="PASS" signature="Report()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="Report" is-config="true" duration-ms="194" started-at="2022-03-28T11:11:09 IST" finished-at="2022-03-28T11:11:09 IST">
+        <test-method status="PASS" signature="Report()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="Report" is-config="true" duration-ms="201" started-at="2022-03-29T00:54:14 IST" finished-at="2022-03-29T00:54:15 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Report -->
-        <test-method status="PASS" signature="ExcelConnect()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="ExcelConnect" is-config="true" duration-ms="915" started-at="2022-03-28T11:11:09 IST" depends-on-methods="com.abc.commonfunctionality.Reporter.Report" finished-at="2022-03-28T11:11:10 IST">
+        <test-method status="PASS" signature="ExcelConnect()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="ExcelConnect" is-config="true" duration-ms="800" started-at="2022-03-29T00:54:15 IST" depends-on-methods="com.abc.commonfunctionality.Reporter.Report" finished-at="2022-03-29T00:54:15 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ExcelConnect -->
-        <test-method status="PASS" signature="TC1()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="TC1" duration-ms="2860" started-at="2022-03-28T11:11:10 IST" description="verify user should be anable to login with invalid credential" finished-at="2022-03-28T11:11:13 IST">
+        <test-method status="PASS" signature="TC1()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="TC1" duration-ms="2612" started-at="2022-03-29T00:54:15 IST" description="verify user should be anable to login with invalid credential" finished-at="2022-03-29T00:54:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC1 -->
-        <test-method status="PASS" signature="TC2()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="TC2" duration-ms="3300" started-at="2022-03-28T11:11:13 IST" description="verify user should be login with valid credentials" finished-at="2022-03-28T11:11:16 IST">
+        <test-method status="PASS" signature="TC2()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="TC2" duration-ms="2776" started-at="2022-03-29T00:54:18 IST" description="verify user should be login with valid credentials" finished-at="2022-03-29T00:54:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC2 -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="endTest" is-config="true" duration-ms="314" started-at="2022-03-28T11:11:16 IST" finished-at="2022-03-28T11:11:16 IST">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="endTest" is-config="true" duration-ms="354" started-at="2022-03-29T00:54:21 IST" finished-at="2022-03-29T00:54:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
-        <test-method status="PASS" signature="BrowserEnd()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="BrowserEnd" is-config="true" duration-ms="714" started-at="2022-03-28T11:11:16 IST" finished-at="2022-03-28T11:11:17 IST">
+        <test-method status="PASS" signature="BrowserEnd()[pri:0, instance:com.abc.orageHRM.Test.LoginPageTest@710726a3]" name="BrowserEnd" is-config="true" duration-ms="654" started-at="2022-03-29T00:54:21 IST" finished-at="2022-03-29T00:54:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BrowserEnd -->
