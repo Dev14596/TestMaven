@@ -29,6 +29,7 @@ public class LoginPageTest extends ReadExcelsheet {
 		}else {
 			System.out.println("hi");
 			Reporter.FailTest("User is able to login with invalid credential");
+			System.out.println("pass");
 			
 		}
 		
